@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Dvizio/BackendAPI/tree/main/controllers/campaigncontroller"
-	"github.com/Dvizio/BackendAPI/tree/main/models"
+	"github.com/Dvizio/BackendAPI/controllers/campaigncontroller"
+	"github.com/Dvizio/BackendAPI/models"
 
 	"github.com/gin-gonic/gin"
 )
